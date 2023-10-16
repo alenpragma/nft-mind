@@ -3,7 +3,7 @@ import { useModal } from "../../../../utils/ModalContext";
 import { FaDiscord, FaTwitter, FaWallet } from "react-icons/fa";
 import { BsXLg } from "react-icons/bs";
 import Button from "../../../../common/button";
-import logo from "../../../../assets/images/logo.png";
+import logo from "../../../../assets/images/logo2x.png";
 import openseaIcon from "../../../../assets/images/icon/opensea.svg";
 import Dropdown from 'react-bootstrap/Dropdown';
 import { isMetaMaskInstalled } from '../../../../config';
