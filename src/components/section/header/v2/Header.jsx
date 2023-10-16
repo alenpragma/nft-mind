@@ -7,7 +7,7 @@ import HeaderStyleWrapper from "./Header.style";
 import { isMetaMaskInstalled } from '../../../../config';
 import Dropdown from 'react-bootstrap/Dropdown';
 
-import logo from "../../../../assets/images/mint-logo.png";
+import logo from "../../../../assets/images/logo2x.png";
 import menuIcon from "../../../../assets/images/icon/mint-menu_icon.svg";
 
 const Header = () => {
