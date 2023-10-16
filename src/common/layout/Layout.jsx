@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet";
-import favIcon from "../../assets/images/fav_icon.ico"
+import favIcon from "../../assets/images/logo-fav.ico"
 const Layout = ({ children }) => {
   return (
     <>
