@@ -1,6 +1,6 @@
 import data from "../../../../../assets/data/footer/footerLinks";
 
-import footerLogo from "../../../../../assets/images/logo.png";
+import footerLogo from "../../../../../assets/images/logo2x.png";
 import backToTopIcon from "../../../../../assets/images/icon/back_to_top.svg";
 import footerShapesLeft from "../../../../../assets/images/icon/logo2x.png";
 import footerShapesRight from "../../../../../assets/images/icon/footer_shapes_right.png";
