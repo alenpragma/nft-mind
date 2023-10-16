@@ -1,7 +1,7 @@
 import FooterBottom from "./footerBottom/FooterBottom";
 
 import data from "../../../../assets/data/footer/footerDataV3";
-import footerLogo from "../../../../assets/images/logo.png";
+import footerLogo from "../../../../assets/images/logo2x.png";
 import btnArrow from "../../../../assets/images/blog/arrow-icon.png";
 
 import FooterStyleWrapper from "./Footer.style";
@@ -17,7 +17,7 @@ const Footer = () => {
                   <img src={footerLogo} alt="bithu nft footer logo" />
                 </a>
                 <p>
-                  Bithu is great solution for launch your NFT for minting. It
+                  Mindchain NFT is great solution for launch your NFT for minting. It
                   uses a dictionary over 200 Latin words, combined with a
                   handful.
                 </p>
