@@ -2,7 +2,7 @@ import data from "../../../../../assets/data/footer/footerLinks";
 
 import footerLogo from "../../../../../assets/images/logo.png";
 import backToTopIcon from "../../../../../assets/images/icon/back_to_top.svg";
-import footerShapesLeft from "../../../../../assets/images/icon/footer_shapes_left.png";
+import footerShapesLeft from "../../../../../assets/images/icon/logo2x.png";
 import footerShapesRight from "../../../../../assets/images/icon/footer_shapes_right.png";
 
 import FooterBottomStyleWrapper from "./FooterBottom.style";
@@ -13,7 +13,7 @@ const FooterBottom = () => {
         <div className="v2_footer_menu">
           <div className="v2_footer_logo">
             <a href="# ">
-              <img src={footerLogo} alt="bithu nft logo" />
+              <img src={footerLogo} alt="mind nft logo" />
             </a>
           </div>
           <div className="bottom_footer_menulist">
@@ -26,7 +26,7 @@ const FooterBottom = () => {
             </ul>
           </div>
           <div className="v2_footer_copiright_text">
-            <p>Copyright ©2022 Bithu, All rights reserved.</p>
+            <p>Copyright ©2023 Mindchain, All rights reserved.</p>
           </div>
           <a href="# " className="bact_to_top_btn">
             <img src={backToTopIcon} alt="bithu nft back to top" />
