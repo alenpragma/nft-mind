@@ -1,7 +1,7 @@
 import CTA from "../../cta/v1";
 
 import { footerLinksV1 } from "../../../../assets/data/insiteLinks";
-import footerLogo from "../../../../assets/images/logo.png";
+import footerLogo from "../../../../assets/images/logo2x.png";
 import backToTopIcon from "../../../../assets/images/icon/back_to_top.svg";
 
 import characterShape from "../../../../assets/images/nft/3_chr_img.png";
@@ -37,7 +37,7 @@ const Footer = () => {
                     </a>
                   </div>
                   <div className="copiright_text">
-                    <p>Copyright © 2022 Bithu</p>
+                    <p>Copyright © 2023 Mindchain NFT</p>
                   </div>
                 </div>
                 <a href="# " className="bact_to_top_btn">
